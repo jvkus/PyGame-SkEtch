@@ -1,3 +1,4 @@
+# Author: Joanna Kus
 import pygame as pg
 from time import sleep
 
